@@ -1,0 +1,10 @@
+
+.msg1{
+    background-color: blueviolet;
+    width: 20%;
+}
+.msg2{
+    background-color: chartreuse;
+    width: 20%;
+    float:right;
+}
